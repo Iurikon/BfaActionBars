@@ -1,4 +1,4 @@
-## Interface: 110004
+## Interface: 110004, 40400
 ## Title: BfaActionBars
 ## Notes: Renders the BFA layout of the action bars. Does not replace the default action bars so using this with an acion bar addon like Bartender4 or Dominos is recommended.
 ## Author: iurikon
